@@ -1,6 +1,8 @@
 # Banking-Contract
 This repository contains a simple smart contract for a bank
 
+#This Smart Contract is based on the assignment set as part of IvanOnTech academy - "Solidity Basics" - Creating an Ethereum Wallet in Solidity
+
 Assignment problem:
 
 Version 1
